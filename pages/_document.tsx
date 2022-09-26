@@ -1,10 +1,10 @@
 import Document, { 
     Html, 
-    Head, 
     Main, 
     NextScript,
     DocumentContext,
-    DocumentInitialProps 
+    DocumentInitialProps, 
+    Head
 } from 'next/document'
 import { CssBaseline } from "@nextui-org/react";
 
